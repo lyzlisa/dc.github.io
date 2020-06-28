@@ -7,3 +7,5 @@ The protagonist of Detective Conan, Conan Edogawa is a high school detective who
 * Excellent athletic abilities: soccer
 * Tone deaf
 * Has perfect eyes but wears glasses that has a tracking functionality (google glasses of the 90s?)
+
+> "There is no deduction that is superior or inferior... because there is only one truth."
