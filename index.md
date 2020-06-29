@@ -11,3 +11,6 @@ The protagonist of Detective Conan, Conan Edogawa is a high school detective who
 
 > There is no deduction that is superior or inferior...
 > because there is only one truth.
+
+<img src="https://news.cgtn.com/news/336b6a4e336b7a6333566d54/img/7c3d5aad-0bd0-4ebe-9a2d-82bd43ad9d36.jpg"/>
+(Image from CGTN.com)
